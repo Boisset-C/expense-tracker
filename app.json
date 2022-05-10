@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expense-tracker",
+    "slug": "expense-tracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
